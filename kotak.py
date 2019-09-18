@@ -1,5 +1,5 @@
 class kotak(object)
-   def __inif__(self, p, l, t)
+   def __inif__(self, p, l, t):
         self.panjang = p
         selft.lebar = l
         selft.tinggi = t
